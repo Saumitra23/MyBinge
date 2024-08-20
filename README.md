@@ -1,4 +1,3 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Dillinger_0"></a>Dillinger</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="MyBinge_1"></a>MyBinge</h2>
 <p class="has-line-data" data-line-start="3" data-line-end="5">MyBinge is a movie database application where user can navigate,search, and filter latest movies of his choice.<br>
 see here:<a href="">here</a></p>
