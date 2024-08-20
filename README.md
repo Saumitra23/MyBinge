@@ -39,3 +39,11 @@ see here:<a href="https://my-binge-lyart.vercel.app/">here</a></p>
 <li class="has-line-data" data-line-start="46" data-line-end="47">I have tried to keep the codebase atomic and extensible to make it more scalable.</li>
 <li class="has-line-data" data-line-start="47" data-line-end="48">Favorites tab is disabled while searching.</li>
 </ul>
+<h2 class="code-line" data-line-start=44 data-line-end=45 ><a id="Things_to_keep_in_mind_44"></a>Possible improvements</h2>
+<ul>
+<li class="has-line-data" data-line-start="46" data-line-end="47">Improved UX with animations and smooth UI.</li>
+<li class="has-line-data" data-line-start="47" data-line-end="48">More screens and customizations.</li>
+<li class="has-line-data" data-line-start="47" data-line-end="48">use of lazy loading and suspense for SEO.</li>
+<li class="has-line-data" data-line-start="47" data-line-end="48">use of popular/paid API's for a complete movie application.</li>
+<li class="has-line-data" data-line-start="47" data-line-end="48">use of Server-Side components for improved performance.</li>
+</ul>
